@@ -1,0 +1,30 @@
+{
+  "head_0": {
+    "avg_attention_to_operator": 0.07525601238012314,
+    "avg_diagonal_attention": 0.38498595356941223,
+    "avg_attention_to_carry": 0.08336982876062393,
+    "avg_entropy": 5.884774208068848,
+    "sparsity": 0.31244897842407227
+  },
+  "head_1": {
+    "avg_attention_to_operator": 0.031073493883013725,
+    "avg_diagonal_attention": 0.04608330875635147,
+    "avg_attention_to_carry": 0.13797499239444733,
+    "avg_entropy": 4.657172679901123,
+    "sparsity": 0.28826531767845154
+  },
+  "head_2": {
+    "avg_attention_to_operator": 0.03517754003405571,
+    "avg_diagonal_attention": 0.765906035900116,
+    "avg_attention_to_carry": 0.14174142479896545,
+    "avg_entropy": 2.194427728652954,
+    "sparsity": 0.18591836094856262
+  },
+  "head_3": {
+    "avg_attention_to_operator": 0.08992787450551987,
+    "avg_diagonal_attention": 0.39434200525283813,
+    "avg_attention_to_carry": 0.13564953207969666,
+    "avg_entropy": 5.757153511047363,
+    "sparsity": 0.30551019310951233
+  }
+}

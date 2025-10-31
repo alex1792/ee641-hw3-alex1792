@@ -1,0 +1,99 @@
+{
+  "baseline": 0.412,
+  "encoder_layer_0_self_attn_head_0": {
+    "accuracy": 0.412,
+    "performance_drop": 0.0
+  },
+  "encoder_layer_0_self_attn_head_1": {
+    "accuracy": 0.412,
+    "performance_drop": 0.0
+  },
+  "encoder_layer_0_self_attn_head_2": {
+    "accuracy": 0.412,
+    "performance_drop": 0.0
+  },
+  "encoder_layer_0_self_attn_head_3": {
+    "accuracy": 0.412,
+    "performance_drop": 0.0
+  },
+  "encoder_layer_1_self_attn_head_0": {
+    "accuracy": 0.4105,
+    "performance_drop": 0.0015000000000000013
+  },
+  "encoder_layer_1_self_attn_head_1": {
+    "accuracy": 0.0115,
+    "performance_drop": 0.40049999999999997
+  },
+  "encoder_layer_1_self_attn_head_2": {
+    "accuracy": 0.397,
+    "performance_drop": 0.014999999999999958
+  },
+  "encoder_layer_1_self_attn_head_3": {
+    "accuracy": 0.403,
+    "performance_drop": 0.008999999999999952
+  },
+  "decoder_layer_0_self_attn_head_0": {
+    "accuracy": 0.412,
+    "performance_drop": 0.0
+  },
+  "decoder_layer_0_self_attn_head_1": {
+    "accuracy": 0.144,
+    "performance_drop": 0.268
+  },
+  "decoder_layer_0_self_attn_head_2": {
+    "accuracy": 0.412,
+    "performance_drop": 0.0
+  },
+  "decoder_layer_0_self_attn_head_3": {
+    "accuracy": 0.3975,
+    "performance_drop": 0.014499999999999957
+  },
+  "decoder_layer_0_cross_attn_head_0": {
+    "accuracy": 0.395,
+    "performance_drop": 0.01699999999999996
+  },
+  "decoder_layer_0_cross_attn_head_1": {
+    "accuracy": 0.412,
+    "performance_drop": 0.0
+  },
+  "decoder_layer_0_cross_attn_head_2": {
+    "accuracy": 0.412,
+    "performance_drop": 0.0
+  },
+  "decoder_layer_0_cross_attn_head_3": {
+    "accuracy": 0.339,
+    "performance_drop": 0.07299999999999995
+  },
+  "decoder_layer_1_self_attn_head_0": {
+    "accuracy": 0.2175,
+    "performance_drop": 0.19449999999999998
+  },
+  "decoder_layer_1_self_attn_head_1": {
+    "accuracy": 0.412,
+    "performance_drop": 0.0
+  },
+  "decoder_layer_1_self_attn_head_2": {
+    "accuracy": 0.047,
+    "performance_drop": 0.365
+  },
+  "decoder_layer_1_self_attn_head_3": {
+    "accuracy": 0.412,
+    "performance_drop": 0.0
+  },
+  "decoder_layer_1_cross_attn_head_0": {
+    "accuracy": 0.412,
+    "performance_drop": 0.0
+  },
+  "decoder_layer_1_cross_attn_head_1": {
+    "accuracy": 0.2975,
+    "performance_drop": 0.11449999999999999
+  },
+  "decoder_layer_1_cross_attn_head_2": {
+    "accuracy": 0.412,
+    "performance_drop": 0.0
+  },
+  "decoder_layer_1_cross_attn_head_3": {
+    "accuracy": 0.412,
+    "performance_drop": 0.0
+  }
+}
