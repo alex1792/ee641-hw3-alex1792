@@ -1,15 +1,9 @@
 # EE 641 - Homework 3: Attention Mechanisms and Transformers
+- **Name**: Yu Hung Kung
+- **USCID**: 3431428440
+- **Email**: yuhungku@usc.edu
 
 Starter code for implementing multi-head attention and analyzing positional encoding strategies.
-
-## Structure
-
-- **`problem1/`** - Multi-head attention implementation and analysis
-- **`problem2/`** - Positional encoding extrapolation experiments
-
-See individual problem READMEs for detailed instructions:
-- [Problem 1 README](problem1/README.md)
-- [Problem 2 README](problem2/README.md)
 
 ## Requirements
 
